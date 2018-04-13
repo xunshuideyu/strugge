@@ -1,0 +1,4 @@
+git stash.
+git stash list.
+git stash apply and git stash drop.
+git stash pop
