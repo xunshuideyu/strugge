@@ -1,2 +1,3 @@
 cat is an annimals.
 cat likes eat fish.
+i like cat,cat is a good friend.
