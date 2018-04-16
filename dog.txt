@@ -1,1 +1,2 @@
 dog is a good friend of human.
+dog is very loyalty.
